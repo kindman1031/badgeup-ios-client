@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'badgeup-ios-client_Example' do
+  pod 'badgeup-ios-client', :path => '../'
+
+  target 'badgeup-ios-client_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
