@@ -27,3 +27,4 @@ kindman1031, attactive.man@gmail.com
 ## License
 
 badgeup-ios-client is available under the MIT license. See the LICENSE file for more info.
+# badgeup-ios-client
